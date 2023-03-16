@@ -5,13 +5,13 @@ button.textContent = 'Multisell Page';
 button.onclick = openMultiSellPage;
 
 button.style.color = "white";
-button.style.marginTop = "10px";
+button.style.marginTop = "20px";
 button.style.padding = "4px 4px 4px 4px";
 button.style.position = "absolute";
 button.style.fontSize = "1.25em";
 button.style.borderWidth = "1px";
-button.style.borderStyle = "solid"
-button.style.borderRadius = "5px"
+button.style.borderStyle = "solid";
+button.style.borderRadius = "5px";
 
 
 document.getElementById("largeiteminfo_item_descriptors").appendChild(button);
